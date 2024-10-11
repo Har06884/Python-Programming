@@ -12,6 +12,7 @@ y.append("Yellow")
 colors = tuple(y)
 print(colors)
 
+# another method to add to a tuple
 y = ("Wraithbone",)
 colors += y
 print(colors)
