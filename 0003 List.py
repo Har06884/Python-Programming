@@ -34,6 +34,6 @@ print(fruit)
 # use del to delete an element
 del fruit[3]
 print(fruit)
-p# clear the list
+# clear the list
 fruit.clear()
 print(fruit)
